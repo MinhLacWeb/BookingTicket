@@ -1,0 +1,79 @@
+.ghe{
+    border: 3px solid orange;
+    width: 35px;
+    height: 35px;
+    font-size: 10px;
+    margin-left: 38px;
+    margin-bottom: 1%;
+    border-radius: 5px;
+}
+
+.hangghe {
+    color:#fff;
+    margin-right: 900px;
+    margin-top: 5px;
+    font-size: 25px;
+   
+}
+
+.rowNumber{
+    /* font-size: 25px; */
+    width: 35px;
+    height: 35px;
+    background: none;
+    border:none;
+    padding-left: 45px;
+    margin-left: 2.1%;
+    margin-bottom: 1%;
+    font-size: 30px;
+    color: yellow;
+    flex-direction: row-reverse;
+    justify-content: center;
+    
+}
+.firstChar{
+    color: yellow;
+    font-size: 35px;
+    margin-right: 15px;
+
+}
+
+.screen{
+    border-bottom: 50px solid rgb(255, 159, 95);
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    height: 100;
+    width:80%;
+    filter: drop-shadow(4px 30px 20px rgba(255, 255, 255, 0.5));
+    font-size: 25px;
+    color: #fff;
+    margin-left: 100px;
+}
+
+
+.gheDuocChon {
+    border: 3px solid orange;
+    background: orange;
+    color: #000;
+    cursor: no-drop !important;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+
+}
+
+.gheDangChon {
+    background: rgb(109, 238, 109);
+    border: 3px solid rgb(109, 238, 109);
+    color: #000;
+
+    cursor: pointer;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+
+}
+
+tbody, td, tfoot, th, thead, tr {
+    color: white
+}
